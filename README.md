@@ -138,7 +138,7 @@ Example:
 
 ![Dashboard](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/Screenshot%202026-06-04%20162042.png)
 ![Dashboard](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/Screenshot%202026-06-04%20162157.png)
-
+![dashboard](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/Screenshot%202026-06-04%20162209.png)
 ---
 
 ## 🔍 Key Insights
