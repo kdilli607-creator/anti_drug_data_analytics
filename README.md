@@ -136,7 +136,8 @@ The dataset contains 1000 synthetic records and includes:
 
 Example:
 
-![Dashboard](dashboard1.png)
+![Dashboard](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/Screenshot%202026-06-04%20162042.png)
+![Dashboard]()
 
 ---
 
