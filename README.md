@@ -1,6 +1,6 @@
 
 # 🚔 GARUDA - Anti Drug Consumption Data Analytics Dashboard
-![]()
+![](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/drugs-abuse-poster-clipart-signage-260nw-2634587939.jpg)
 ## 📌 Project Overview
 
 GARUDA (Ganja Anti-Drug United Data Analytics) is an interactive data analytics dashboard developed using Microsoft Excel to analyze anti-drug consumption data and support data-driven decision making.
