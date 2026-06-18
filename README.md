@@ -132,7 +132,7 @@ The dataset contains 1000 synthetic records and includes:
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+
 
 Example:
 
