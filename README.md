@@ -1,5 +1,5 @@
 
-# 🚔 GARUDA - Anti Drug Consumption Data Analytics Dashboard 
+# 🚔 GARUDA - Ganja Anti Drug Consumption Data Analytics Dashboard 
 ![](https://github.com/kdilli607-creator/anti_drug_data_analytics/blob/main/drugs-abuse-poster-clipart-signage-260nw-2634587939.jpg)
 ## 📌 Project Overview
 
